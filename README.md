@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 6.0.3.2
 
-* System dependencies
+* System dependencies: -
 
-* Configuration
+* Configuration: -
 
-* Database creation
+* Database creation: no database atm
 
 * Database initialization
 
@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* First part of the rails tutorial
